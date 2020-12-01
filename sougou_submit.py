@@ -83,7 +83,7 @@ def submit(urls, session):
         'webAdr': urls,
         'site_type': '1',
         'reason': '',
-        'email': '1455857826@qq.com'
+        'email': '换成你的联系邮箱'
     }
     req = session.post(base_url, headers=header, data=data)
     req.encoding = req.apparent_encoding
