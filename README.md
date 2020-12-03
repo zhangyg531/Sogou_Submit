@@ -1,4 +1,4 @@
-# Sgsou_Submit
+# SoGou_Submit
 搜狗收录搜狗站长工具主动推送脚本
 
 
